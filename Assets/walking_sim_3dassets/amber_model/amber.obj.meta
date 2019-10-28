@@ -1,8 +1,273 @@
 fileFormatVersion: 2
 guid: 5e8ff401ff9cf354d99170e1bab11e8b
 ModelImporter:
-  serializedVersion: 26
-  internalIDToNameTable: []
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: pCylinder1
+    100004: pCylinder10
+    100006: pCylinder11
+    100008: pCylinder12
+    100010: pCylinder2
+    100012: pCylinder3
+    100014: pCylinder4
+    100016: pCylinder5
+    100018: pCylinder6
+    100020: pCylinder7
+    100022: pCylinder8
+    100024: pCylinder9
+    100026: pSphere1
+    100028: pSphere10
+    100030: pSphere11
+    100032: pSphere12
+    100034: pSphere13
+    100036: pSphere14
+    100038: pSphere15
+    100040: pSphere16
+    100042: pSphere17
+    100044: pSphere18
+    100046: pSphere19
+    100048: pSphere2
+    100050: pSphere20
+    100052: pSphere21
+    100054: pSphere22
+    100056: pSphere23
+    100058: pSphere24
+    100060: pSphere25
+    100062: pSphere26
+    100064: pSphere27
+    100066: pSphere28
+    100068: pSphere29
+    100070: pSphere3
+    100072: pSphere30
+    100074: pSphere31
+    100076: pSphere32
+    100078: pSphere33
+    100080: pSphere34
+    100082: pSphere35
+    100084: pSphere36
+    100086: pSphere37
+    100088: pSphere38
+    100090: pSphere39
+    100092: pSphere4
+    100094: pSphere40
+    100096: pSphere5
+    100098: pSphere6
+    100100: pSphere7
+    100102: pSphere8
+    100104: pSphere9
+    400000: //RootNode
+    400002: pCylinder1
+    400004: pCylinder10
+    400006: pCylinder11
+    400008: pCylinder12
+    400010: pCylinder2
+    400012: pCylinder3
+    400014: pCylinder4
+    400016: pCylinder5
+    400018: pCylinder6
+    400020: pCylinder7
+    400022: pCylinder8
+    400024: pCylinder9
+    400026: pSphere1
+    400028: pSphere10
+    400030: pSphere11
+    400032: pSphere12
+    400034: pSphere13
+    400036: pSphere14
+    400038: pSphere15
+    400040: pSphere16
+    400042: pSphere17
+    400044: pSphere18
+    400046: pSphere19
+    400048: pSphere2
+    400050: pSphere20
+    400052: pSphere21
+    400054: pSphere22
+    400056: pSphere23
+    400058: pSphere24
+    400060: pSphere25
+    400062: pSphere26
+    400064: pSphere27
+    400066: pSphere28
+    400068: pSphere29
+    400070: pSphere3
+    400072: pSphere30
+    400074: pSphere31
+    400076: pSphere32
+    400078: pSphere33
+    400080: pSphere34
+    400082: pSphere35
+    400084: pSphere36
+    400086: pSphere37
+    400088: pSphere38
+    400090: pSphere39
+    400092: pSphere4
+    400094: pSphere40
+    400096: pSphere5
+    400098: pSphere6
+    400100: pSphere7
+    400102: pSphere8
+    400104: pSphere9
+    2100000: initialShadingGroup
+    2100002: lambert2SG
+    2100004: lambert3SG
+    2300000: pCylinder1
+    2300002: pCylinder10
+    2300004: pCylinder11
+    2300006: pCylinder12
+    2300008: pCylinder2
+    2300010: pCylinder3
+    2300012: pCylinder4
+    2300014: pCylinder5
+    2300016: pCylinder6
+    2300018: pCylinder7
+    2300020: pCylinder8
+    2300022: pCylinder9
+    2300024: pSphere1
+    2300026: pSphere10
+    2300028: pSphere11
+    2300030: pSphere12
+    2300032: pSphere13
+    2300034: pSphere14
+    2300036: pSphere15
+    2300038: pSphere16
+    2300040: pSphere17
+    2300042: pSphere18
+    2300044: pSphere19
+    2300046: pSphere2
+    2300048: pSphere20
+    2300050: pSphere21
+    2300052: pSphere22
+    2300054: pSphere23
+    2300056: pSphere24
+    2300058: pSphere25
+    2300060: pSphere26
+    2300062: pSphere27
+    2300064: pSphere28
+    2300066: pSphere29
+    2300068: pSphere3
+    2300070: pSphere30
+    2300072: pSphere31
+    2300074: pSphere32
+    2300076: pSphere33
+    2300078: pSphere34
+    2300080: pSphere35
+    2300082: pSphere36
+    2300084: pSphere37
+    2300086: pSphere38
+    2300088: pSphere39
+    2300090: pSphere4
+    2300092: pSphere40
+    2300094: pSphere5
+    2300096: pSphere6
+    2300098: pSphere7
+    2300100: pSphere8
+    2300102: pSphere9
+    3300000: pCylinder1
+    3300002: pCylinder10
+    3300004: pCylinder11
+    3300006: pCylinder12
+    3300008: pCylinder2
+    3300010: pCylinder3
+    3300012: pCylinder4
+    3300014: pCylinder5
+    3300016: pCylinder6
+    3300018: pCylinder7
+    3300020: pCylinder8
+    3300022: pCylinder9
+    3300024: pSphere1
+    3300026: pSphere10
+    3300028: pSphere11
+    3300030: pSphere12
+    3300032: pSphere13
+    3300034: pSphere14
+    3300036: pSphere15
+    3300038: pSphere16
+    3300040: pSphere17
+    3300042: pSphere18
+    3300044: pSphere19
+    3300046: pSphere2
+    3300048: pSphere20
+    3300050: pSphere21
+    3300052: pSphere22
+    3300054: pSphere23
+    3300056: pSphere24
+    3300058: pSphere25
+    3300060: pSphere26
+    3300062: pSphere27
+    3300064: pSphere28
+    3300066: pSphere29
+    3300068: pSphere3
+    3300070: pSphere30
+    3300072: pSphere31
+    3300074: pSphere32
+    3300076: pSphere33
+    3300078: pSphere34
+    3300080: pSphere35
+    3300082: pSphere36
+    3300084: pSphere37
+    3300086: pSphere38
+    3300088: pSphere39
+    3300090: pSphere4
+    3300092: pSphere40
+    3300094: pSphere5
+    3300096: pSphere6
+    3300098: pSphere7
+    3300100: pSphere8
+    3300102: pSphere9
+    4300000: pCylinder1
+    4300002: pCylinder10
+    4300004: pCylinder11
+    4300006: pCylinder12
+    4300008: pCylinder2
+    4300010: pCylinder3
+    4300012: pCylinder4
+    4300014: pCylinder5
+    4300016: pCylinder6
+    4300018: pCylinder7
+    4300020: pCylinder8
+    4300022: pCylinder9
+    4300024: pSphere1
+    4300026: pSphere10
+    4300028: pSphere11
+    4300030: pSphere12
+    4300032: pSphere13
+    4300034: pSphere14
+    4300036: pSphere15
+    4300038: pSphere16
+    4300040: pSphere17
+    4300042: pSphere18
+    4300044: pSphere19
+    4300046: pSphere2
+    4300048: pSphere20
+    4300050: pSphere21
+    4300052: pSphere22
+    4300054: pSphere23
+    4300056: pSphere24
+    4300058: pSphere25
+    4300060: pSphere26
+    4300062: pSphere27
+    4300064: pSphere28
+    4300066: pSphere29
+    4300068: pSphere3
+    4300070: pSphere30
+    4300072: pSphere31
+    4300074: pSphere32
+    4300076: pSphere33
+    4300078: pSphere34
+    4300080: pSphere35
+    4300082: pSphere36
+    4300084: pSphere37
+    4300086: pSphere38
+    4300088: pSphere39
+    4300090: pSphere4
+    4300092: pSphere40
+    4300094: pSphere5
+    4300096: pSphere6
+    4300098: pSphere7
+    4300100: pSphere8
+    4300102: pSphere9
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -37,8 +302,6 @@ ModelImporter:
     globalScale: 1
     meshCompression: 0
     addColliders: 0
-    useSRGBMaterialColor: 1
-    sortHierarchyByName: 1
     importVisibility: 1
     importBlendShapes: 1
     importCameras: 1
@@ -46,32 +309,27 @@ ModelImporter:
     swapUVChannels: 0
     generateSecondaryUV: 0
     useFileUnits: 1
+    optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
     preserveHierarchy: 0
-    skinWeightsMode: 0
-    maxBonesPerVertex: 4
-    minBoneWeight: 0.001
-    meshOptimizationFlags: -1
     indexFormat: 0
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
     secondaryUVPackMargin: 4
     useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
     tangentImportMode: 3
     normalCalculationMode: 4
-    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
-    blendShapeNormalImportMode: 1
-    normalSmoothingSource: 0
-  referencedClips: []
   importAnimation: 1
   copyAvatar: 0
   humanDescription:
-    serializedVersion: 3
+    serializedVersion: 2
     human: []
     skeleton: []
     armTwist: 0.5
@@ -81,8 +339,8 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
-    globalScale: 1
     rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
     hasTranslationDoF: 0
     hasExtraRoot: 0
     skeletonHasParents: 1
