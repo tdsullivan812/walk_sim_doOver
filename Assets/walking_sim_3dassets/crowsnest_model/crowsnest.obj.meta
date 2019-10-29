@@ -1,8 +1,126 @@
 fileFormatVersion: 2
-guid: 6cd0828f93ad35b4c8caeb443ef0bd52
+guid: d522981c57d441d429e7fdbc8ae8deea
 ModelImporter:
-  serializedVersion: 26
-  internalIDToNameTable: []
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: beak1
+    100002: beak2
+    100004: beak3
+    100006: beatk2
+    100008: beatk3
+    100010: beatk4
+    100012: crow_body
+    100014: //RootNode
+    100016: pPlane1
+    100018: pPlane2
+    100020: pPlane3
+    100022: pPlane4
+    100024: pPlane5
+    100026: pPlane6
+    100028: pPlane7
+    100030: pPlane8
+    100032: pPlane9
+    100034: wing_feather_tufts
+    100036: wing_feather_tufts1
+    100038: wing_feather_tufts2
+    100040: wing_feather_tufts3
+    100042: wing_feather_tufts4
+    100044: wing_feather_tufts5
+    100046: wing_feather_tufts6
+    400000: beak1
+    400002: beak2
+    400004: beak3
+    400006: beatk2
+    400008: beatk3
+    400010: beatk4
+    400012: crow_body
+    400014: //RootNode
+    400016: pPlane1
+    400018: pPlane2
+    400020: pPlane3
+    400022: pPlane4
+    400024: pPlane5
+    400026: pPlane6
+    400028: pPlane7
+    400030: pPlane8
+    400032: pPlane9
+    400034: wing_feather_tufts
+    400036: wing_feather_tufts1
+    400038: wing_feather_tufts2
+    400040: wing_feather_tufts3
+    400042: wing_feather_tufts4
+    400044: wing_feather_tufts5
+    400046: wing_feather_tufts6
+    2100000: initialShadingGroup
+    2300000: beak1
+    2300002: beak2
+    2300004: beak3
+    2300006: beatk2
+    2300008: beatk3
+    2300010: beatk4
+    2300012: crow_body
+    2300014: pPlane1
+    2300016: pPlane2
+    2300018: pPlane3
+    2300020: pPlane4
+    2300022: pPlane5
+    2300024: pPlane6
+    2300026: pPlane7
+    2300028: pPlane8
+    2300030: pPlane9
+    2300032: wing_feather_tufts
+    2300034: wing_feather_tufts1
+    2300036: wing_feather_tufts2
+    2300038: wing_feather_tufts3
+    2300040: wing_feather_tufts4
+    2300042: wing_feather_tufts5
+    2300044: wing_feather_tufts6
+    3300000: beak1
+    3300002: beak2
+    3300004: beak3
+    3300006: beatk2
+    3300008: beatk3
+    3300010: beatk4
+    3300012: crow_body
+    3300014: pPlane1
+    3300016: pPlane2
+    3300018: pPlane3
+    3300020: pPlane4
+    3300022: pPlane5
+    3300024: pPlane6
+    3300026: pPlane7
+    3300028: pPlane8
+    3300030: pPlane9
+    3300032: wing_feather_tufts
+    3300034: wing_feather_tufts1
+    3300036: wing_feather_tufts2
+    3300038: wing_feather_tufts3
+    3300040: wing_feather_tufts4
+    3300042: wing_feather_tufts5
+    3300044: wing_feather_tufts6
+    4300000: beak1
+    4300002: beak2
+    4300004: beak3
+    4300006: beatk2
+    4300008: beatk3
+    4300010: beatk4
+    4300012: crow_body
+    4300014: pPlane1
+    4300016: pPlane2
+    4300018: pPlane3
+    4300020: pPlane4
+    4300022: pPlane5
+    4300024: pPlane6
+    4300026: pPlane7
+    4300028: pPlane8
+    4300030: pPlane9
+    4300032: wing_feather_tufts
+    4300034: wing_feather_tufts1
+    4300036: wing_feather_tufts2
+    4300038: wing_feather_tufts3
+    4300040: wing_feather_tufts4
+    4300042: wing_feather_tufts5
+    4300044: wing_feather_tufts6
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -37,8 +155,6 @@ ModelImporter:
     globalScale: 1
     meshCompression: 0
     addColliders: 0
-    useSRGBMaterialColor: 1
-    sortHierarchyByName: 1
     importVisibility: 1
     importBlendShapes: 1
     importCameras: 1
@@ -46,32 +162,27 @@ ModelImporter:
     swapUVChannels: 0
     generateSecondaryUV: 0
     useFileUnits: 1
+    optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
     preserveHierarchy: 0
-    skinWeightsMode: 0
-    maxBonesPerVertex: 4
-    minBoneWeight: 0.001
-    meshOptimizationFlags: -1
     indexFormat: 0
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
     secondaryUVPackMargin: 4
     useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
     tangentImportMode: 3
     normalCalculationMode: 4
-    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
-    blendShapeNormalImportMode: 1
-    normalSmoothingSource: 0
-  referencedClips: []
   importAnimation: 1
   copyAvatar: 0
   humanDescription:
-    serializedVersion: 3
+    serializedVersion: 2
     human: []
     skeleton: []
     armTwist: 0.5
@@ -81,8 +192,8 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
-    globalScale: 1
     rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
     hasTranslationDoF: 0
     hasExtraRoot: 0
     skeletonHasParents: 1
