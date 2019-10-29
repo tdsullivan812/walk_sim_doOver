@@ -1,6 +1,33 @@
-newmtl initialShadingGroup
+newmtl lambert2SG
 illum 4
-Kd 0.50 0.50 0.50
+Kd 0.03 0.03 0.67
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
 Ni 1.00
+newmtl lambert3SG
+illum 4
+Kd 0.03 0.03 0.67
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl lambert4SG
+illum 4
+Kd 0.35 0.55 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl lambert5SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd unicorn_uv_final.png
+Ni 1.00
+newmtl phongE1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd unicorn_uv_final.png
+Ni 1.00
+Ks 0.50 0.50 0.50
