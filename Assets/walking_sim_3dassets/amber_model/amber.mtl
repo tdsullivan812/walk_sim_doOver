@@ -1,9 +1,3 @@
-newmtl initialShadingGroup
-illum 4
-Kd 0.50 0.50 0.50
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
 newmtl lambert2SG
 illum 4
 Kd 1.00 0.16 0.00
@@ -15,4 +9,18 @@ illum 4
 Kd 1.00 0.54 0.00
 Ka 0.28 0.28 0.28
 Tf 0.92 0.92 0.92
+Ni 1.00
+newmtl lambert5SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd amber_uv_final.png
+Ni 1.00
+newmtl lambert6SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd amber_uv2_final.png
 Ni 1.00
